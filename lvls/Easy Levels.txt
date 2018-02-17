@@ -1,0 +1,455 @@
+NEW LEVEL
+1248
+53
+barrier 816 408
+walker 912 408 walker
+barrier 1008 408
+barrier 816 456
+walker 912 456 walker
+barrier 1008 456
+spike 480 537
+block 528 504 block_0
+block 576 504 block_0
+block 624 504 block_2
+block 672 504 block_0
+block 720 504 block_0
+barrier 816 504
+walker 912 504 walker
+barrier 1008 504
+block 1104 504 block_2
+spike 240 585
+block 288 552 block_0
+block 336 552 block_0
+block 384 552 block_0
+block 432 552 block_2
+block 480 552 block_0
+block 528 552 block_0
+block 576 552 block_0
+block 624 552 block_1
+block 672 552 block_2
+block 720 552 block_0
+barrier 816 552
+walker 912 552 walker
+barrier 1008 552
+block 1104 552 block_1
+block 1152 552 block_2
+block 48 600 block_0
+block 96 600 block_0
+block 144 600 block_0
+block 192 600 block_0
+block 240 600 block_0
+block 288 600 block_0
+block 336 600 block_0
+block 384 600 block_2
+block 432 600 block_1
+block 480 600 block_0
+block 528 600 block_0
+block 576 600 block_0
+block 624 600 block_1
+block 672 600 block_2
+block 720 600 block_2
+barrier 816 600
+walker 912 600 walker
+barrier 1008 600
+block 1104 600 block_1
+block 1152 600 block_2
+block 1200 600 block_1
+NEW LEVEL
+816
+28
+barrier 336 408
+walker 432 408 walker
+barrier 624 408
+barrier 336 456
+walker 432 456 walker
+barrier 624 456
+block 288 504 block_0
+barrier 336 504
+walker 432 504 walker
+component 456 477 component
+barrier 624 504
+block 672 504 block_2
+block 240 552 block_0
+block 288 552 block_2
+barrier 336 552
+walker 432 552 walker
+barrier 624 552
+block 672 552 block_2
+block 720 552 block_2
+block 192 600 block_0
+block 240 600 block_0
+block 288 600 block_2
+barrier 336 600
+walker 432 600 walker
+barrier 624 600
+block 672 600 block_0
+block 720 600 block_0
+block 768 600 block_0
+NEW LEVEL
+3792
+145
+block 2784 72 block_2
+block 2832 168 block_1
+block 1200 264 block_2
+block 2448 264 block_0
+block 3552 264 block_2
+block 1824 312 block_2
+block 1872 312 block_1
+block 1920 312 block_2
+block 1968 312 block_1
+block 2016 312 block_2
+block 2064 312 block_1
+walker 2208 312 walker
+barrier 2256 312
+block 3504 312 block_2
+block 3552 312 block_1
+block 3600 312 block_2
+block 3744 312 block_1
+block 1776 360 block_2
+block 2064 360 block_2
+block 2112 360 block_1
+block 2160 360 block_2
+block 2208 360 block_1
+spike 2352 393
+spike 2448 393
+spike 2544 393
+block 2976 360 block_2
+block 3168 360 block_2
+block 3216 360 block_1
+block 3264 360 block_2
+block 3312 360 block_1
+block 3360 360 block_2
+block 3408 360 block_1
+block 3456 360 block_2
+block 3504 360 block_1
+block 3552 360 block_2
+block 3600 360 block_1
+block 3648 360 block_2
+block 3696 360 block_1
+barrier 816 408
+walker 864 408 walker
+barrier 1008 408
+block 1584 408 block_0
+spike 2304 441
+block 2352 408 block_1
+spike 2400 441
+block 2448 408 block_1
+spike 2496 441
+block 2544 408 block_1
+spike 2592 441
+block 2928 408 block_2
+block 2976 408 block_1
+block 3168 408 block_1
+block 3216 408 block_2
+block 3264 408 block_1
+block 3312 408 block_2
+block 3360 408 block_1
+block 3408 408 block_2
+block 3456 408 block_1
+block 3504 408 block_2
+block 3552 408 block_1
+block 624 456 block_2
+block 672 456 block_1
+block 720 456 block_2
+block 768 456 block_1
+block 816 456 block_2
+block 864 456 block_1
+block 912 456 block_2
+block 960 456 block_1
+block 1008 456 block_2
+block 1536 456 block_0
+block 1584 456 block_2
+block 1632 456 block_0
+block 2304 456 block_1
+block 2400 456 block_1
+block 2496 456 block_1
+block 2592 456 block_1
+block 2880 456 block_2
+block 2928 456 block_1
+block 2976 456 block_2
+block 3168 456 block_2
+block 3216 456 block_1
+block 3264 456 block_2
+block 3312 456 block_1
+block 3360 456 block_2
+block 3408 456 block_1
+block 3456 456 block_2
+block 3504 456 block_1
+block 480 504 block_2
+block 528 504 block_1
+block 1488 504 block_0
+block 1536 504 block_2
+block 1584 504 block_1
+block 1632 504 block_2
+block 1680 504 block_0
+block 2832 504 block_2
+block 2880 504 block_1
+block 2928 504 block_2
+block 2976 504 block_1
+block 144 552 block_2
+block 384 552 block_1
+block 432 552 block_2
+block 480 552 block_1
+block 528 552 block_2
+block 1440 552 block_0
+block 1488 552 block_2
+block 1536 552 block_1
+block 1584 552 block_2
+block 1632 552 block_1
+block 1680 552 block_2
+block 1728 552 block_0
+block 2784 552 block_2
+block 2832 552 block_1
+block 2880 552 block_2
+block 2928 552 block_1
+block 2976 552 block_2
+block 96 600 block_2
+block 144 600 block_1
+block 192 600 block_2
+block 336 600 block_1
+block 384 600 block_2
+block 432 600 block_1
+block 480 600 block_2
+block 528 600 block_1
+spike 1104 633
+spike 1152 633
+spike 1200 633
+spike 1248 633
+spike 1296 633
+block 1392 600 block_0
+block 1440 600 block_2
+block 1488 600 block_1
+block 1536 600 block_2
+block 1584 600 block_1
+block 1632 600 block_2
+block 1680 600 block_1
+block 1728 600 block_2
+block 1776 600 block_0
+block 2736 600 block_2
+block 2784 600 block_1
+block 2832 600 block_2
+block 2880 600 block_1
+block 2928 600 block_2
+block 2976 600 block_1
+barrier 3120 600
+walker 3168 600 walker
+NEW LEVEL
+4704
+217
+component 1320 189 component
+component 1704 189 component
+component 2280 237 component
+component 3288 237 component
+component 456 285 component
+component 888 285 component
+block 3552 312 block_2
+block 3744 312 block_2
+block 3792 312 block_2
+block 3984 312 block_0
+block 4032 312 block_0
+block 4080 312 block_0
+block 4272 312 block_0
+block 4320 312 block_0
+block 4368 312 block_0
+block 4560 312 block_0
+block 4608 312 block_0
+block 4656 312 block_0
+barrier 1200 360
+walker 1344 360 walker
+barrier 1488 360
+spike 1536 393
+barrier 1632 360
+walker 1728 360 walker
+barrier 1824 360
+block 3504 360 block_2
+block 3552 360 block_2
+block 3744 360 block_2
+block 3792 360 block_2
+block 3984 360 block_0
+block 4032 360 block_0
+block 4080 360 block_0
+block 4272 360 block_0
+block 4320 360 block_0
+block 4368 360 block_0
+block 4560 360 block_0
+block 4608 360 block_0
+block 4656 360 block_0
+spike 576 441
+spike 624 441
+spike 672 441
+barrier 768 408
+walker 912 408 walker
+barrier 1056 408
+block 1200 408 block_2
+block 1248 408 block_2
+block 1296 408 block_2
+block 1344 408 block_2
+block 1392 408 block_2
+block 1440 408 block_2
+block 1488 408 block_0
+block 1536 408 block_2
+block 1680 408 block_0
+block 1728 408 block_0
+block 1776 408 block_0
+block 1824 408 block_0
+barrier 2208 408
+walker 2304 408 walker
+barrier 2400 408
+component 2904 381 component
+spike 3216 441
+block 3456 408 block_2
+block 3504 408 block_2
+block 3552 408 block_2
+block 3744 408 block_2
+block 3792 408 block_2
+block 3984 408 block_0
+block 4032 408 block_0
+block 4080 408 block_0
+block 4272 408 block_0
+block 4320 408 block_0
+block 4368 408 block_0
+block 4560 408 block_0
+block 4608 408 block_0
+block 4656 408 block_0
+block 432 456 block_2
+block 480 456 block_2
+block 528 456 block_2
+block 576 456 block_2
+block 624 456 block_2
+block 672 456 block_2
+block 720 456 block_2
+block 768 456 block_2
+block 816 456 block_1
+block 864 456 block_1
+block 912 456 block_1
+block 960 456 block_1
+block 1008 456 block_1
+block 2208 456 block_2
+block 2256 456 block_2
+block 2304 456 block_2
+block 2352 456 block_2
+block 2400 456 block_2
+block 2592 456 block_1
+block 2640 456 block_2
+block 3120 456 block_2
+block 3168 456 block_2
+block 3216 456 block_2
+block 3408 456 block_2
+block 3456 456 block_2
+block 3504 456 block_2
+block 3552 456 block_2
+block 3744 456 block_2
+block 3792 456 block_2
+block 3984 456 block_0
+block 4032 456 block_0
+block 4080 456 block_0
+component 4152 429 component
+block 4272 456 block_0
+block 4320 456 block_0
+block 4368 456 block_0
+component 4440 429 component
+block 4560 456 block_0
+block 4608 456 block_0
+block 4656 456 block_0
+block 384 504 block_2
+block 432 504 block_0
+block 480 504 block_0
+block 528 504 block_0
+block 576 504 block_0
+block 624 504 block_0
+block 672 504 block_0
+block 720 504 block_0
+block 2112 504 block_2
+block 2160 504 block_2
+block 2208 504 block_2
+block 2256 504 block_2
+block 2304 504 block_2
+block 2352 504 block_1
+block 2400 504 block_1
+walker 2496 504 walker
+block 2592 504 block_1
+block 2640 504 block_1
+block 2688 504 block_2
+block 2736 504 block_2
+spike 2784 537
+spike 2832 537
+block 336 552 block_2
+block 384 552 block_0
+block 432 552 block_0
+block 480 552 block_0
+block 528 552 block_0
+block 576 552 block_0
+block 624 552 block_0
+block 672 552 block_0
+block 720 552 block_0
+block 2064 552 block_2
+block 2112 552 block_2
+block 2160 552 block_1
+block 2208 552 block_1
+block 2256 552 block_1
+block 2304 552 block_1
+block 2352 552 block_1
+block 2400 552 block_1
+walker 2496 552 walker
+block 2592 552 block_1
+block 2640 552 block_1
+block 2688 552 block_1
+block 2736 552 block_2
+block 2784 552 block_2
+block 2832 552 block_2
+block 2880 552 block_2
+component 3528 525 component
+component 3864 525 component
+block 0 600 block_2
+block 48 600 block_2
+block 96 600 block_2
+block 144 600 block_2
+block 192 600 block_2
+block 240 600 block_2
+block 288 600 block_2
+block 336 600 block_0
+block 384 600 block_0
+block 432 600 block_0
+block 480 600 block_0
+block 528 600 block_0
+block 576 600 block_0
+block 624 600 block_0
+block 672 600 block_0
+block 720 600 block_0
+walker 1200 600 walker
+barrier 1536 600
+spike 1584 633
+spike 1632 633
+spike 1680 633
+barrier 1728 600
+walker 1872 600 walker
+barrier 1968 600
+block 2016 600 block_2
+block 2064 600 block_2
+block 2112 600 block_2
+block 2160 600 block_1
+block 2208 600 block_1
+block 2256 600 block_1
+block 2304 600 block_1
+block 2352 600 block_1
+block 2400 600 block_1
+walker 2496 600 walker
+component 2520 573 component
+block 2592 600 block_1
+block 2640 600 block_1
+block 2688 600 block_1
+block 2736 600 block_1
+block 2784 600 block_2
+block 2832 600 block_2
+block 2880 600 block_2
+block 2928 600 block_2
+walker 3120 600 walker
+barrier 3264 600
+walker 3408 600 walker
+barrier 3552 600
+walker 3696 600 walker
+barrier 4032 600
+walker 4128 600 walker
+barrier 4320 600
+walker 4512 600 walker
+block 2256 648 block_2

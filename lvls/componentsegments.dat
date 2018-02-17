@@ -1,0 +1,129 @@
+NEW LEVEL 0
+816
+50
+component 360 285 component
+barrier 0 408
+walker 96 408 walker
+barrier 192 408
+barrier 576 408
+walker 672 408 walker
+barrier 768 408
+barrier 0 456
+walker 96 456 walker
+barrier 192 456
+block 240 456 block_1
+block 528 456 block_0
+barrier 576 456
+walker 672 456 walker
+barrier 768 456
+barrier 0 504
+walker 96 504 walker
+block 192 504 block_1
+block 240 504 block_1
+block 528 504 block_0
+block 576 504 block_0
+walker 672 504 walker
+barrier 768 504
+barrier 0 552
+walker 96 552 walker
+block 192 552 block_1
+block 240 552 block_0
+block 288 552 block_0
+spike 336 585
+block 480 552 block_1
+block 528 552 block_1
+block 576 552 block_0
+walker 672 552 walker
+barrier 768 552
+block 48 600 block_1
+block 96 600 block_0
+block 144 600 block_1
+block 192 600 block_1
+block 240 600 block_0
+block 288 600 block_0
+block 336 600 block_0
+spike 384 633
+block 432 600 block_1
+block 480 600 block_1
+block 528 600 block_1
+block 576 600 block_0
+block 624 600 block_0
+block 672 600 block_0
+block 720 600 block_1
+spike 768 633
+NEW LEVEL 1
+912
+57
+barrier 240 360
+walker 336 360 walker
+barrier 432 360
+barrier 240 408
+walker 336 408 walker
+barrier 432 408
+barrier 48 456
+walker 144 456 walker
+barrier 240 456
+walker 336 456 walker
+barrier 432 456
+walker 528 456 walker
+barrier 624 456
+component 696 429 component
+spike 768 489
+barrier 48 504
+walker 144 504 walker
+barrier 240 504
+walker 336 504 walker
+barrier 432 504
+walker 528 504 walker
+barrier 624 504
+block 672 504 block_1
+block 720 504 block_1
+block 768 504 block_1
+spike 816 537
+barrier 48 552
+walker 144 552 walker
+block 240 552 block_0
+block 288 552 block_0
+block 336 552 block_0
+block 384 552 block_0
+block 432 552 block_0
+walker 528 552 walker
+barrier 624 552
+block 672 552 block_1
+block 720 552 block_2
+block 768 552 block_2
+block 816 552 block_2
+block 48 600 block_0
+block 96 600 block_0
+block 144 600 block_0
+block 192 600 block_0
+block 240 600 block_0
+block 288 600 block_0
+block 336 600 block_0
+block 384 600 block_0
+block 432 600 block_0
+block 480 600 block_0
+block 528 600 block_0
+block 576 600 block_0
+block 624 600 block_0
+block 672 600 block_1
+block 720 600 block_2
+block 768 600 block_2
+block 816 600 block_2
+spike 864 633
+NEW LEVEL 2
+576
+13
+block 144 600 block_0
+block 144 552 block_0
+block 144 504 block_0
+block 144 456 block_0
+component 312 525 none
+block 528 600 block_0
+block 528 552 block_0
+block 528 504 block_0
+block 528 456 block_0
+walker 288 600 walker
+walker 288 552 walker
+walker 288 504 walker
+walker 288 456 walker

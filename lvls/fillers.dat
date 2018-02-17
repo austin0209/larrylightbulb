@@ -1,0 +1,387 @@
+NEW LEVEL 0
+1008
+50
+barrier 480 360
+walker 576 360 walker
+barrier 672 360
+barrier 480 408
+walker 576 408 walker
+barrier 672 408
+block 336 456 block_2
+barrier 480 456
+walker 576 456 walker
+barrier 672 456
+block 816 456 block_2
+block 288 504 block_2
+block 336 504 block_2
+block 384 504 block_2
+barrier 480 504
+walker 576 504 walker
+barrier 672 504
+block 768 504 block_1
+block 816 504 block_1
+block 864 504 block_2
+block 240 552 block_2
+block 288 552 block_1
+block 336 552 block_1
+block 384 552 block_2
+block 432 552 block_1
+barrier 480 552
+walker 576 552 walker
+barrier 672 552
+block 720 552 block_2
+block 768 552 block_2
+block 816 552 block_1
+block 864 552 block_2
+block 912 552 block_1
+block 192 600 block_2
+block 240 600 block_2
+block 288 600 block_2
+block 336 600 block_1
+block 384 600 block_2
+block 432 600 block_1
+spike 480 633
+block 528 600 block_1
+block 576 600 block_1
+block 624 600 block_1
+spike 672 633
+block 720 600 block_2
+block 768 600 block_1
+block 816 600 block_2
+block 864 600 block_2
+block 912 600 block_1
+block 960 600 block_1
+NEW LEVEL 1
+1440
+110
+barrier 720 312
+walker 816 312 walker
+barrier 912 312
+barrier 720 360
+walker 816 360 walker
+barrier 912 360
+barrier 960 360
+walker 1056 360 walker
+barrier 1152 360
+block 240 408 block_1
+walker 336 408 walker
+block 432 408 block_1
+block 480 408 block_1
+block 528 408 block_0
+block 576 408 block_0
+block 624 408 block_1
+barrier 720 408
+walker 816 408 walker
+barrier 912 408
+barrier 960 408
+walker 1056 408 walker
+barrier 1152 408
+barrier 1200 408
+walker 1296 408 walker
+barrier 1392 408
+block 192 456 block_1
+block 240 456 block_1
+walker 336 456 walker
+block 432 456 block_1
+block 480 456 block_1
+block 528 456 block_1
+block 576 456 block_0
+block 624 456 block_0
+block 768 456 block_1
+block 816 456 block_1
+block 864 456 block_1
+barrier 960 456
+walker 1056 456 walker
+barrier 1152 456
+barrier 1200 456
+walker 1296 456 walker
+barrier 1392 456
+block 144 504 block_1
+block 192 504 block_1
+block 240 504 block_1
+walker 336 504 walker
+block 432 504 block_1
+block 480 504 block_0
+block 528 504 block_1
+block 576 504 block_1
+block 624 504 block_1
+spike 672 537
+block 768 504 block_1
+block 816 504 block_0
+block 864 504 block_1
+block 1008 504 block_0
+block 1056 504 block_0
+block 1104 504 block_1
+barrier 1200 504
+walker 1296 504 walker
+barrier 1392 504
+block 96 552 block_1
+block 144 552 block_1
+block 192 552 block_0
+block 240 552 block_1
+walker 336 552 walker
+block 432 552 block_1
+block 480 552 block_0
+block 528 552 block_0
+block 576 552 block_0
+block 624 552 block_1
+block 672 552 block_2
+spike 720 585
+block 768 552 block_1
+block 816 552 block_0
+block 864 552 block_0
+spike 960 585
+block 1008 552 block_1
+block 1056 552 block_0
+block 1104 552 block_1
+block 1248 552 block_1
+block 1296 552 block_1
+block 1344 552 block_0
+block 48 600 block_1
+block 96 600 block_1
+block 144 600 block_0
+block 192 600 block_0
+block 240 600 block_1
+walker 336 600 walker
+block 432 600 block_1
+block 480 600 block_1
+block 528 600 block_0
+block 576 600 block_0
+block 624 600 block_1
+block 672 600 block_2
+block 720 600 block_2
+block 768 600 block_1
+block 816 600 block_1
+block 864 600 block_0
+spike 912 633
+block 960 600 block_2
+block 1008 600 block_1
+block 1056 600 block_1
+block 1104 600 block_1
+spike 1152 633
+spike 1200 633
+block 1248 600 block_1
+block 1296 600 block_0
+block 1344 600 block_0
+spike 1392 633
+NEW LEVEL 2
+912
+40
+barrier 672 408
+walker 768 408 walker
+barrier 864 408
+barrier 480 456
+walker 576 456 walker
+barrier 672 456
+walker 768 456 walker
+barrier 864 456
+barrier 288 504
+walker 384 504 walker
+barrier 480 504
+walker 576 504 walker
+barrier 672 504
+walker 768 504 walker
+barrier 864 504
+barrier 96 552
+walker 192 552 walker
+barrier 288 552
+walker 384 552 walker
+barrier 480 552
+walker 576 552 walker
+barrier 672 552
+walker 768 552 walker
+barrier 864 552
+block 144 600 block_1
+block 192 600 block_1
+block 240 600 block_1
+spike 288 633
+block 336 600 block_1
+block 384 600 block_1
+block 432 600 block_1
+spike 480 633
+block 528 600 block_1
+block 576 600 block_1
+block 624 600 block_1
+spike 672 633
+block 720 600 block_1
+block 768 600 block_1
+block 816 600 block_1
+spike 864 633
+NEW LEVEL 3
+1296
+90
+barrier 336 264
+walker 432 264 walker
+barrier 528 264
+barrier 144 312
+walker 240 312 walker
+barrier 336 312
+walker 432 312 walker
+barrier 528 312
+barrier 144 360
+walker 240 360 walker
+barrier 336 360
+walker 432 360 walker
+barrier 528 360
+barrier 144 408
+walker 240 408 walker
+barrier 336 408
+walker 432 408 walker
+barrier 528 408
+barrier 624 408
+walker 720 408 walker
+barrier 816 408
+block 192 456 block_2
+block 240 456 block_2
+block 288 456 block_2
+spike 336 489
+block 384 456 block_1
+block 432 456 block_1
+block 480 456 block_1
+barrier 624 456
+walker 720 456 walker
+barrier 816 456
+block 1104 456 block_0
+block 1152 456 block_0
+block 192 504 block_2
+block 240 504 block_2
+block 288 504 block_1
+block 336 504 block_2
+block 384 504 block_2
+block 432 504 block_1
+block 480 504 block_2
+barrier 624 504
+walker 720 504 walker
+barrier 816 504
+block 1008 504 block_0
+block 1056 504 block_1
+block 1104 504 block_1
+block 1152 504 block_0
+block 96 552 block_2
+block 144 552 block_1
+block 192 552 block_1
+block 240 552 block_2
+block 288 552 block_1
+block 336 552 block_1
+block 384 552 block_2
+block 432 552 block_2
+block 480 552 block_2
+block 528 552 block_2
+block 576 552 block_1
+barrier 624 552
+walker 720 552 walker
+barrier 816 552
+block 912 552 block_0
+block 960 552 block_0
+block 1008 552 block_1
+block 1056 552 block_1
+block 1104 552 block_1
+block 1152 552 block_0
+block 96 600 block_1
+block 144 600 block_1
+block 192 600 block_1
+block 240 600 block_2
+block 288 600 block_2
+block 336 600 block_1
+block 384 600 block_2
+block 432 600 block_2
+block 480 600 block_2
+block 528 600 block_1
+block 576 600 block_1
+spike 624 633
+walker 720 600 walker
+block 816 600 block_0
+block 864 600 block_0
+block 912 600 block_0
+block 960 600 block_0
+block 1008 600 block_1
+block 1056 600 block_1
+block 1104 600 block_0
+block 1152 600 block_0
+spike 1200 633
+spike 1248 633
+NEW LEVEL 4
+1536
+82
+block 1152 360 block_2
+block 1200 360 block_2
+barrier 96 408
+walker 192 408 walker
+barrier 288 408
+barrier 384 408
+walker 480 408 walker
+barrier 576 408
+block 1152 408 block_2
+block 1200 408 block_2
+barrier 1296 408
+walker 1392 408 walker
+barrier 1488 408
+barrier 96 456
+walker 192 456 walker
+barrier 288 456
+barrier 384 456
+walker 480 456 walker
+barrier 576 456
+block 960 456 block_2
+block 1008 456 block_2
+block 1152 456 block_2
+block 1200 456 block_2
+barrier 1296 456
+walker 1392 456 walker
+barrier 1488 456
+barrier 96 504
+walker 192 504 walker
+barrier 288 504
+barrier 384 504
+walker 480 504 walker
+barrier 576 504
+block 960 504 block_2
+block 1008 504 block_2
+block 1152 504 block_2
+block 1200 504 block_2
+barrier 1296 504
+walker 1392 504 walker
+barrier 1488 504
+block 48 552 block_1
+barrier 96 552
+walker 192 552 walker
+barrier 288 552
+barrier 384 552
+walker 480 552 walker
+barrier 576 552
+block 624 552 block_1
+block 768 552 block_2
+block 816 552 block_2
+block 960 552 block_2
+block 1008 552 block_2
+block 1152 552 block_2
+block 1200 552 block_2
+barrier 1296 552
+walker 1392 552 walker
+barrier 1488 552
+block 0 600 block_1
+block 48 600 block_1
+barrier 96 600
+walker 192 600 walker
+spike 288 633
+block 336 600 block_1
+spike 384 633
+walker 480 600 walker
+barrier 576 600
+block 624 600 block_1
+block 672 600 block_1
+spike 720 633
+block 768 600 block_2
+block 816 600 block_2
+spike 864 633
+spike 912 633
+block 960 600 block_2
+block 1008 600 block_2
+spike 1056 633
+spike 1104 633
+block 1152 600 block_2
+block 1200 600 block_2
+spike 1248 633
+barrier 1296 600
+walker 1392 600 walker
+barrier 1488 600

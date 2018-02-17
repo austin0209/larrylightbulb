@@ -1,0 +1,23 @@
+NEW LEVEL
+912
+20
+barrier 672 408
+walker 768 408 walker
+barrier 864 408
+barrier 672 456
+walker 768 456 walker
+barrier 864 456
+barrier 672 504
+walker 768 504 walker
+barrier 864 504
+component 168 525 component
+barrier 672 552
+walker 768 552 walker
+barrier 864 552
+barrier 336 600
+walker 432 600 walker
+barrier 528 600
+spike 624 633
+barrier 672 600
+walker 768 600 walker
+barrier 864 600
